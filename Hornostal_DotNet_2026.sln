@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab01_Core", "DotNet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab02_ConsoleUI", "DotNet_Lab02_ConsoleUI\DotNet_Lab02_ConsoleUI.csproj", "{FFE3943D-7136-441E-99BC-F6EEB176A630}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab03_ConsoleUI", "DotNet_Lab03_ConsoleUI\DotNet_Lab03_ConsoleUI.csproj", "{4A677926-0FDA-4B26-90C3-954A7570D899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FFE3943D-7136-441E-99BC-F6EEB176A630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFE3943D-7136-441E-99BC-F6EEB176A630}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFE3943D-7136-441E-99BC-F6EEB176A630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A677926-0FDA-4B26-90C3-954A7570D899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A677926-0FDA-4B26-90C3-954A7570D899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A677926-0FDA-4B26-90C3-954A7570D899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A677926-0FDA-4B26-90C3-954A7570D899}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
